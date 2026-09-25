@@ -1,0 +1,26 @@
+id,title,url,points,author,comments,hn_link,scraped_at
+49843269,Platform-Independent SIMD in Go,https://go.dev/blog/simd-experiment,252,yurivish,92,https://news.ycombinator.com/item?id=49843269,2026-09-25T18:11:27+00:00
+49843174,"Git-bug: Distributed, offline-first bug tracker embedded in Git",https://github.com/git-bug/git-bug,213,alentred,67,https://news.ycombinator.com/item?id=49843174,2026-09-25T18:11:27+00:00
+49844736,First Principles Thinking,https://sunilsadasivan.com/writing/first-principles-thinking/,107,sunils34,46,https://news.ycombinator.com/item?id=49844736,2026-09-25T18:11:27+00:00
+49841285,Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini,https://nyaa.sh/reviews/mac-mini-m6-emulation,209,hugh4life,93,https://news.ycombinator.com/item?id=49841285,2026-09-25T18:11:27+00:00
+49845952,Classified Estimates Show the NSA Is Paying Billions to Test AI Models,https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models,124,rdmuser,67,https://news.ycombinator.com/item?id=49845952,2026-09-25T18:11:27+00:00
+49831968,F-Droid 2.0,https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html,1404,daveoc64,399,https://news.ycombinator.com/item?id=49831968,2026-09-25T18:11:27+00:00
+49845977,U.S. appeals court upholds designation of Anthropic as supply chain risk,https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html,203,cramer4next,277,https://news.ycombinator.com/item?id=49845977,2026-09-25T18:11:27+00:00
+49842270,Ink and Switch Interactive Homepage,https://www.inkandswitch.com/,163,iFreilicht,22,https://news.ycombinator.com/item?id=49842270,2026-09-25T18:11:27+00:00
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,https://www.dawo.community/en/,843,fjfaase,500,https://news.ycombinator.com/item?id=49841563,2026-09-25T18:11:27+00:00
+49845133,Factorio that you can touch,https://factorio.com/blog/post/fff-447,167,ibobev,26,https://news.ycombinator.com/item?id=49845133,2026-09-25T18:11:27+00:00
+49823738,Show HN: Make cursed fonts like Times New Bastard,https://bastardica.mitpit.com,828,MitPitt,119,https://news.ycombinator.com/item?id=49823738,2026-09-25T18:11:27+00:00
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,https://github.com/devdotfast/whiteboard,374,sidharthkmenon,126,https://news.ycombinator.com/item?id=49833867,2026-09-25T18:11:27+00:00
+49839664,What About Rails?,https://jardo.dev/what-about-rails,227,jrochkind1,143,https://news.ycombinator.com/item?id=49839664,2026-09-25T18:11:27+00:00
+49844786,Allow Carriers on Planes,https://www.jefftk.com/p/allow-carriers-on-planes,167,surprisetalk,196,https://news.ycombinator.com/item?id=49844786,2026-09-25T18:11:27+00:00
+49832938,Why is the liver so weirdly regenerative?,https://dynomight.substack.com/p/liver,523,jbotz,262,https://news.ycombinator.com/item?id=49832938,2026-09-25T18:11:27+00:00
+49843550,The Test,https://tante.cc/2026/09/24/the-test/,125,latexr,49,https://news.ycombinator.com/item?id=49843550,2026-09-25T18:11:27+00:00
+49801436,2DWillNeverDie,https://2dwillneverdie.com/,305,surprisetalk,77,https://news.ycombinator.com/item?id=49801436,2026-09-25T18:11:27+00:00
+49817680,Rails World 2026 Opening Keynote [video],https://www.youtube.com/watch?v=vDjW_dRyKXY,406,an0malous,444,https://news.ycombinator.com/item?id=49817680,2026-09-25T18:11:27+00:00
+49836374,Opus 5.5 is good at explainer videos,https://launchvideo.io,372,iacguy,202,https://news.ycombinator.com/item?id=49836374,2026-09-25T18:11:27+00:00
+49823568,Toyota is taking the Corolla electric,https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/,414,cisc,751,https://news.ycombinator.com/item?id=49823568,2026-09-25T18:11:27+00:00
+49800085,Fearless SIMD v1.0,https://linebender.org/blog/fearless-simd-1-0/,300,verdagon,48,https://news.ycombinator.com/item?id=49800085,2026-09-25T18:11:27+00:00
+49805344,My weird new hobby: Wandering around Tokyo on Google Maps,https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/,402,ahmedhossamdev,171,https://news.ycombinator.com/item?id=49805344,2026-09-25T18:11:27+00:00
+49828731,Two-tier encryption in the UK,https://macanorak.com/two-tier-encryption-in-the-uk/,492,ReturnoftheHack,451,https://news.ycombinator.com/item?id=49828731,2026-09-25T18:11:27+00:00
+49835531,Using LLMs to trace alchemical knowledge and decode 17th century letters,https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical,160,benbreen,38,https://news.ycombinator.com/item?id=49835531,2026-09-25T18:11:27+00:00
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/,212,xnx,460,https://news.ycombinator.com/item?id=49830606,2026-09-25T18:11:27+00:00
