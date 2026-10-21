@@ -1,0 +1,12 @@
+id,title,url,points,author,comments,hn_link,scraped_at
+50180873,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,800,tuyuri,459,https://news.ycombinator.com/item?id=50180873,2026-10-21T18:20:03+00:00
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,263,ejohnso49,130,https://news.ycombinator.com/item?id=50182987,2026-10-21T18:20:03+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,209,abhisek,86,https://news.ycombinator.com/item?id=50181114,2026-10-21T18:20:03+00:00
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,246,nnx,29,https://news.ycombinator.com/item?id=50181136,2026-10-21T18:20:03+00:00
+50177916,Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,673,hkc,313,https://news.ycombinator.com/item?id=50177916,2026-10-21T18:20:03+00:00
+50181175,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,164,nr378,96,https://news.ycombinator.com/item?id=50181175,2026-10-21T18:20:03+00:00
+50150214,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,159,frizlab,60,https://news.ycombinator.com/item?id=50150214,2026-10-21T18:20:03+00:00
+50174687,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,346,gumby,150,https://news.ycombinator.com/item?id=50174687,2026-10-21T18:20:03+00:00
+50149861,The Decoherence Trap,https://maevyn.codes/decoherence,150,cassianoleal,64,https://news.ycombinator.com/item?id=50149861,2026-10-21T18:20:03+00:00
+50178455,Whatever Happened to Fire Escapes,https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes,166,sohkamyung,129,https://news.ycombinator.com/item?id=50178455,2026-10-21T18:20:03+00:00
+50180836,PHP2Shell: AI uncovers critical RCE in PHP,https://www.wiz.io/blog/php2shell-php-rce,397,danlark1,150,https://news.ycombinator.com/item?id=50180836,2026-10-21T18:20:03+00:00
